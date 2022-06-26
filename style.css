@@ -129,12 +129,12 @@ figure {
     flex-wrap: wrap;
     margin: 0 auto;
     padding: 56px 80px 40px 80px;
-    
+
   }
 
   figure {
     width: 100%;
-    
+
   }
 
   .container__content__logo {
@@ -156,7 +156,7 @@ figure {
     text-align: left;
     margin-top: 45px;
     padding-left: 58px;
-    
+
   }
 
   .container__content__texts__title {
@@ -177,9 +177,9 @@ figure {
     margin-left: auto;
   }
 
-    .container__content__icons {
-      padding: 8px;
-      width: 18px;
-      height: 18px;
-    }
+  .container__content__icons {
+    padding: 8px;
+    width: 18px;
+    height: 18px;
+  }
 }
